@@ -1,0 +1,13 @@
+C:\Users\XOD1AC\Desktop\Udemy C# Projeleri\C#\employeeRecord\employeeRecord\bin\Debug\employeeRecord.exe.config
+C:\Users\XOD1AC\Desktop\Udemy C# Projeleri\C#\employeeRecord\employeeRecord\bin\Debug\employeeRecord.exe
+C:\Users\XOD1AC\Desktop\Udemy C# Projeleri\C#\employeeRecord\employeeRecord\bin\Debug\employeeRecord.pdb
+C:\Users\XOD1AC\Desktop\Udemy C# Projeleri\C#\employeeRecord\employeeRecord\obj\Debug\employeeRecord.csproj.AssemblyReference.cache
+C:\Users\XOD1AC\Desktop\Udemy C# Projeleri\C#\employeeRecord\employeeRecord\obj\Debug\employeeRecord.Properties.Resources.resources
+C:\Users\XOD1AC\Desktop\Udemy C# Projeleri\C#\employeeRecord\employeeRecord\obj\Debug\employeeRecord.csproj.GenerateResource.cache
+C:\Users\XOD1AC\Desktop\Udemy C# Projeleri\C#\employeeRecord\employeeRecord\obj\Debug\employeeRecord.csproj.CoreCompileInputs.cache
+C:\Users\XOD1AC\Desktop\Udemy C# Projeleri\C#\employeeRecord\employeeRecord\obj\Debug\employeeRecord.exe
+C:\Users\XOD1AC\Desktop\Udemy C# Projeleri\C#\employeeRecord\employeeRecord\obj\Debug\employeeRecord.pdb
+C:\Users\XOD1AC\Desktop\Udemy C# Projeleri\C#\employeeRecord\employeeRecord\obj\Debug\employeeRecord.frmİstatistik.resources
+C:\Users\XOD1AC\Desktop\Udemy C# Projeleri\C#\employeeRecord\employeeRecord\obj\Debug\employeeRecord.frmAnaForm.resources
+C:\Users\XOD1AC\Desktop\Udemy C# Projeleri\C#\employeeRecord\employeeRecord\obj\Debug\employeeRecord.frmGrafikler.resources
+C:\Users\XOD1AC\Desktop\Udemy C# Projeleri\C#\employeeRecord\employeeRecord\obj\Debug\employeeRecord.frmGiris.resources
